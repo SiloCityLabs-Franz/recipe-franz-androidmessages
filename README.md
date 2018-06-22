@@ -5,7 +5,7 @@ This recipe only works for Franz 5.X, get it now at http://meetfranz.com
 
 ## Installation
 
-1. Clone/download the folder `recipe-franz-googleallo`.
+1. Clone/download the folder `recipe-franz-androidmessages`.
 
 2. Open the Franz Recipe folder on your machine:
   * Mac: `~/Library/Application Support/Franz/recipes/`
